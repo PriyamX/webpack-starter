@@ -3,4 +3,9 @@ $body-color: slateblue;
 body {
   color: $body-color;
   font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  justify-content: center;
+  align-items: center;
 }
